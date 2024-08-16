@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello 👋🏻
 
-<!--
-**Efeewans/efeewans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Ewansiha Omosefe Stephanie
 
-Here are some ideas to get you started:
+Contact:
+- Email: [email](ewansihaomosefe4@gmail.com)
+- linkedin: [linkedin](https://www.linkedin.com/in/omosefe-ewansiha-852355321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me:
+- I'm a Computer Science student at Delta State University in Nigeria, passionate about learning and exploring the world of technology. I'm interested in software development, artificial intelligence, cybersecurity. I'm currently working on learning some programmimg languages and i have familiarized myself with HTML/CSS, Java, Python, Git.
+
+Goals:
+- Short-term: Complete a personal project using machine learning
+- Long-term: Become a software engineer at a top tech company
+
+Fun Facts:
+- Love maths and solving puzzles
+- Enthusiastic about learning new programming languages
